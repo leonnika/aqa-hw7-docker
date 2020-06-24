@@ -35,7 +35,7 @@ java -jar db-api.jar
 ```
 
 * Проверить успешность:
-отGET на http://localhost:9999/api/cards выдаст вам JSON с картами:
+отправка GET-запроса на http://localhost:9999/api/cards выдаст вам JSON с картами:
 
 ```
 [ 
